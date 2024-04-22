@@ -1,5 +1,8 @@
 # Games_guess
 
+#### bscIT second year project
+
+
 A radom picking number game
 
 ## technologies used
